@@ -65,7 +65,7 @@ ________________________________________________________________________________
 3. Нажмите на зелёную кнопку **New issue** в правом верхнем углу и выберите подходящий шаблон для подробного отчета.
 
 ---
-_**Ultimate Optimizations: Ultra Boost Edition** — это бескомпромиссный инструмент для оптимизации Minecraft, разработанный с упором на максимальное высвобождение ресурсов вашего железа. Мы бережно настраиваем каждый конфигурационный файл, тестируем совместимость и выжимаем пиковую производительность как на слабых ноутбуках, так и на топовых игровых станциях, полностью сохраняя дух оригинальной игры. © Ultimate Optimizations._
+_**Ultimate Optimizations: Ultra Boost Edition** — это бескомпромиссный инструмент для оптимизации Minecraft, разработанный с упором на максимальное высвобождение ресурсов вашего железа. Мы бережно настраиваем каждый конфигурационный файл, тестируем совместимость и выжимаем пиковую производительность как на слабых ноутбуках, так и на топовых игровых станциях, полностью сохраняя дух оригинальной игры. © Ultimate Optimizations: Ultra Boost Edition._
 
 # **🇺🇸 English Version (Английская версия)**
 
@@ -126,4 +126,4 @@ If you encounter an error, game crash, or any technical issue, please report it 
 3. Click the green **New issue** button in the top right corner and choose the appropriate template for a detailed report.
 
 ---
-_**Ultimate Optimizations: Ultra Boost Edition** is an uncompromising tool for Minecraft optimization, designed with a focus on maximizing the release of your hardware resources. We carefully fine-tune every configuration file, test compatibility, and extract peak performance on both weak laptops and top-tier gaming rigs, completely preserving the spirit of the original game. © Ultimate Optimizations._
+_**Ultimate Optimizations: Ultra Boost Edition** is an uncompromising tool for Minecraft optimization, designed with a focus on maximizing the release of your hardware resources. We carefully fine-tune every configuration file, test compatibility, and extract peak performance on both weak laptops and top-tier gaming rigs, completely preserving the spirit of the original game. © Ultimate Optimizations: Ultra Boost Edition._
