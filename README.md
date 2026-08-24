@@ -1,4 +1,4 @@
-ℹ️ **Язык / Language: [RU Русская версия_(Russian Version).](https://github.com/playgeymer22852/Ultimate-optimizations#:~:text=%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20(Russian%20Version)) | [US Английская версия_(English Version).](https://github.com/playgeymer22852/Ultimate-optimizations#:~:text=%F0%9F%87%BA%F0%9F%87%B8%20English%20Version%20(%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F))**
+ℹ️ **Язык / Language: [RU Русская версия_(Russian Version).](https://github.com/playgeymer22852/Ultimate-Optimizations-Ultra-Boost-Edition#:~:text=%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20(Russian%20Version)) | [US Английская версия_(English Version).](https://github.com/playgeymer22852/Ultimate-Optimizations-Ultra-Boost-Edition#:~:text=%F0%9F%87%BA%F0%9F%87%B8%20English%20Version%20(%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F))** 
 
 💡 *Если с первого раза вас не перевело на нужный языковой вариант, то нажмите второй раз — и вас обязательно переведёт.*
 
@@ -26,7 +26,7 @@ ________________________________________________________________________________
 ### 📖 ПОДРОБНАЯ ИНФОРМАЦИЯ О ПРОЕКТЕ
 > 📊 Узнать подробные технические характеристики модпака, посмотреть детальные тесты производительности (FPS) на мощных ПК и слабых ноутбуках, изучить список встроенных шейдеров и ознакомиться с полным описанием проекта вы можете на нашей официальной странице.
 > 
-> 👉 **[ЧИТАТЬ ПОДРОБНОЕ ОПИСАНИЕ ULTIMATE OPTIMIZATIONS НА MODRINTH](https://modrinth.com/modpack/ultimate-optimizations)**
+> 👉 **[ЧИТАТЬ ПОДРОБНОЕ ОПИСАНИЕ ULTIMATE OPTIMIZATIONS НА MODRINTH](https://modrinth.com/modpack/ultimate-optimizations-ultra-boost-edition)** 
 
 ---
 
@@ -51,7 +51,7 @@ ________________________________________________________________________________
 
 ### 🔗 Полезные ссылки
 
-* 🟩 **[СТРАНИЦА НА MODRINTH](https://modrinth.com/modpack/ultimate-optimizations)** — Скачать актуальную и чистую версию сборки.
+* 🟩 **[СТРАНИЦА НА MODRINTH](https://modrinth.com/modpack/ultimate-optimizations-ultra-boost-edition/versions)**  — Скачать актуальную и чистую версию сборки.
 * ☕ **[СКАЧАТЬ JAVA (GRAALVM)](https://github.com/graalvm/graalvm-ce-builds)** — Рекомендуемая производительная среда для запуска (сборка строго требует Java 25 и выше).
 
 ---
@@ -60,7 +60,7 @@ ________________________________________________________________________________
 
 Если вы столкнулись с ошибкой, вылетом игры или технической проблемой, пожалуйста, сообщите об этом автору:
 
-1. Перейдите во вкладку **[Issues](https://github.com/playgeymer22852/Ultimate-optimizations/issues)** (или нажмите кнопку **Issues** с иконкой круга в самом верху этой страницы репозитория).
+1. Перейдите во вкладку **[Issues](https://github.com/playgeymer22852/Ultimate-Optimizations-Ultra-Boost-Edition/issues)** (или нажмите кнопку **Issues** с иконкой круга в самом верху этой страницы репозитория).
 2. Войдите в свой существующий аккаунт **GitHub** (или пройдите быструю регистрацию).
 3. Нажмите на зелёную кнопку **New issue** в правом верхнем углу и выберите подходящий шаблон для подробного отчета.
 
@@ -87,7 +87,7 @@ _**Ultimate Optimizations: Ultra Boost Edition** — это бескомпром
 ### 📖 DETAILED INFORMATION ABOUT THE PROJECT
 > 📊 To find out the detailed technical specifications of the modpack, check out the detailed performance tests (FPS) on powerful PCs and weak laptops, look through the list of built-in shaders, and read the full description of the project, please visit our official page.
 > 
-> 👉 **[READ THE DETAILED DESCRIPTION OF ULTIMATE OPTIMIZATIONS ON MODRINTH](https://modrinth.com/modpack/ultimate-optimizations)**
+> 👉 **[READ THE DETAILED DESCRIPTION OF ULTIMATE OPTIMIZATIONS ON MODRINTH](https://modrinth.com/modpack/ultimate-optimizations-ultra-boost-edition)** 
 
 ---
 
@@ -112,7 +112,7 @@ The **Ultimate Optimizations: Ultra Boost Edition** pack is designed for players
 
 ### 🔗 Quick Links
 
-* 🟩 **[MODRINTH PAGE](https://modrinth.com/modpack/ultimate-optimizations)** — Download the latest clean version of the modpack.
+* 🟩 **[MODRINTH PAGE](https://modrinth.com/modpack/ultimate-optimizations-ultra-boost-edition/versions)** — Download the latest clean version of the modpack.
 * ☕ **[DOWNLOAD JAVA (GRAALVM)](https://github.com/graalvm/graalvm-ce-builds)** — Recommended high-performance runtime environment (the pack strictly requires Java 25 or higher).
 
 ---
@@ -121,7 +121,7 @@ The **Ultimate Optimizations: Ultra Boost Edition** pack is designed for players
 
 If you encounter an error, game crash, or any technical issue, please report it to the author:
 
-1. Go to the **[Issues](https://github.com/playgeymer22852/Ultimate-optimizations/issues)** tab (or click the **Issues** button with a circle icon at the very top of this repository page).
+1. Go to the **[Issues](https://github.com/playgeymer22852/Ultimate-Optimizations-Ultra-Boost-Edition/issues)** tab (or click the **Issues** button with a circle icon at the very top of this repository page).
 2. Log into your existing **GitHub** account (or complete a quick registration).
 3. Click the green **New issue** button in the top right corner and choose the appropriate template for a detailed report.
 
