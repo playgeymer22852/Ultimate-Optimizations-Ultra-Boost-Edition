@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 # **🇷🇺 Русская версия (Russian Version)**
 
-# ⚡ Ultimate Optimizations
+# ⚡ Ultimate Optimizations: Ultra Boost Edition
 
 > ### ⚠️ БЕЗОПАСНОСТЬ (ВАЖНОЕ ПРЕДУПРЕЖДЕНИЕ)
 > * **🔴 ОФИЦИАЛЬНЫЙ РЕЛИЗ:** Данная сборка разрабатывается и публикуется **ТОЛЬКО** на двух официальных платформах: **Modrinth** и **GitHub**. 
@@ -18,7 +18,7 @@ ________________________________________________________________________________
 ---
 
 ### ⚡ Кратко о сборке
-**Ultimate Optimizations** — это технический модпак для платформы Fabric, сфокусированный исключительно на выжимании максимального количества кадров в секунду (FPS), идеальной стабилизации времени кадра и полном уничтожении микрофризов при генерации мира. 
+**Ultimate Optimizations: Ultra Boost Edition** — это технический модпак для платформы Fabric, сфокусированный исключительно на выжимании максимального количества кадров в секунду (FPS), идеальной стабилизации времени кадра и полном уничтожении микрофризов при генерации мира. 
 * _Разработка проекта вдохновлена крупнейшим мировым модпаком оптимизации Fabulously Optimized._
 
 ---
@@ -41,7 +41,7 @@ ________________________________________________________________________________
 
 ### 💻 Кому подойдет этот пак?
 
-Сборка **Ultimate-optimizations** разработана для игроков с абсолютно любым железом и разделена на три конфигурации.
+Сборка **Ultimate Optimizations: Ultra Boost Edition** разработана для игроков с абсолютно любым железом и разделена на три конфигурации.
 
 | Уровень ПК | Железо | Ожидаемый FPS | Для кого? |
 | :--- | :--- | :--- | :--- |
@@ -65,11 +65,11 @@ ________________________________________________________________________________
 3. Нажмите на зелёную кнопку **New issue** в правом верхнем углу и выберите подходящий шаблон для подробного отчета.
 
 ---
-_**Ultimate Optimizations** — это бескомпромиссный инструмент для оптимизации Minecraft, разработанный с упором на максимальное высвобождение ресурсов вашего железа. Мы бережно настраиваем каждый конфигурационный файл, тестируем совместимость и выжимаем пиковую производительность как на слабых ноутбуках, так и на топовых игровых станциях, полностью сохраняя дух оригинальной игры. © Ultimate Optimizations._
+_**Ultimate Optimizations: Ultra Boost Edition** — это бескомпромиссный инструмент для оптимизации Minecraft, разработанный с упором на максимальное высвобождение ресурсов вашего железа. Мы бережно настраиваем каждый конфигурационный файл, тестируем совместимость и выжимаем пиковую производительность как на слабых ноутбуках, так и на топовых игровых станциях, полностью сохраняя дух оригинальной игры. © Ultimate Optimizations._
 
 # **🇺🇸 English Version (Английская версия)**
 
-# ⚡ Ultimate Optimizations
+# ⚡ Ultimate Optimizations: Ultra Boost Edition
 
 > ### ⚠️ SECURITY (IMPORTANT WARNING)
 > * **🔴 OFFICIAL RELEASE:** This modpack is developed and published **ONLY** on two official platforms: **Modrinth** and **GitHub**. 
@@ -79,7 +79,7 @@ _**Ultimate Optimizations** — это бескомпромиссный инст
 ---
 
 ### ⚡ About the Modpack
-**Ultimate Optimizations** is a technical modpack for the Fabric platform, focused exclusively on squeezing out the maximum number of frames per second (FPS), perfect frame-time stabilization, and completely eliminating micro-stutters during world generation. 
+**Ultimate Optimizations: Ultra Boost Edition** is a technical modpack for the Fabric platform, focused exclusively on squeezing out the maximum number of frames per second (FPS), perfect frame-time stabilization, and completely eliminating micro-stutters during world generation. 
 * _The project development is inspired by the world's largest optimization modpack Fabulously Optimized._
 
 ---
@@ -102,7 +102,7 @@ _**Ultimate Optimizations** — это бескомпромиссный инст
 
 ### 💻 Who is this pack for?
 
-The **Ultimate-optimizations** pack is designed for players with any hardware configuration and is divided into three performance tiers.
+The **Ultimate Optimizations: Ultra Boost Edition** pack is designed for players with any hardware configuration and is divided into three performance tiers.
 
 | PC Tier | Hardware | Expected FPS | Target Audience |
 | :--- | :--- | :--- | :--- |
@@ -126,4 +126,4 @@ If you encounter an error, game crash, or any technical issue, please report it 
 3. Click the green **New issue** button in the top right corner and choose the appropriate template for a detailed report.
 
 ---
-_**Ultimate Optimizations** is an uncompromising tool for Minecraft optimization, designed with a focus on maximizing the release of your hardware resources. We carefully fine-tune every configuration file, test compatibility, and extract peak performance on both weak laptops and top-tier gaming rigs, completely preserving the spirit of the original game. © Ultimate Optimizations._
+_**Ultimate Optimizations: Ultra Boost Edition** is an uncompromising tool for Minecraft optimization, designed with a focus on maximizing the release of your hardware resources. We carefully fine-tune every configuration file, test compatibility, and extract peak performance on both weak laptops and top-tier gaming rigs, completely preserving the spirit of the original game. © Ultimate Optimizations._
