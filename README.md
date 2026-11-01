@@ -1,5 +1,18 @@
 
 
+---
+
+## 🔗 Быстрые ссылки / Quick Links
+
+### 🇷🇺 Русская версия
+* **Официальная страница на Modrinth:** [Ultimate Optimizations: Ultra Boost Edition](https://modrinth.com/modpack/ultimate-optimizations-ultra-boost-edition)
+* **Рекомендуемая Java (GitHub):** [GraalVM Community Edition JDK](https://github.com/graalvm/graalvm-ce-builds) — *скачайте последнюю версию для максимальной стабильности времени кадра.*
+
+### 🇺🇸 English Version
+* **Official Modrinth Page:** [Ultimate Optimizations: Ultra Boost Edition](https://modrinth.com/modpack/ultimate-optimizations-ultra-boost-edition)
+* **Recommended Java (GitHub):** [GraalVM Community Edition JDK](https://github.com/graalvm/graalvm-ce-builds) — *download the latest release for the best frametime stability.*
+
+---
 
 # Русская версия / Russian version.
 
