@@ -1,4 +1,4 @@
-[🇷🇺 Русская версия / Russian version](https://github.com.) | [🇺🇸 English version / Английская версия](https://github.com.)
+           [🇷🇺 Русская версия / Russian version](https://github.com.) | [🇺🇸 English version / Английская версия](https://github.com.)
 
 ---
 
