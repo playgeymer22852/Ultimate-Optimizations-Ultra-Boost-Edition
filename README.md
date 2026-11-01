@@ -427,7 +427,7 @@
 ### English version / Английская версия.
 
 > [!IMPORTANT]
-> ### 📌 ВЫ ПЕРЕШЛИ К АНГЛИЙСКОМУ ТЕКСТУ. | YOU HAVE SWITCHED TO THE ENGLISH TEXT.
+> ### 📌 YOU HAVE SWITCHED TO THE ENGLISH TEXT. | ВЫ ПЕРЕШЛИ К АНГЛИЙСКОМУ ТЕКСТУ.
 
 # 🚀 Ultimate Optimizations: Ultra Boost Edition
 
