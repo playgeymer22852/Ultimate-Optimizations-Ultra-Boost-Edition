@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com.">🇷🇺 Русская версия / Russian version</a> | <a href="https://github.com.">🇺🇸 English version / Английская версия</a>
+  <a href="https://github.com/playgeymer22852/Ultimate-Optimizations-Ultra-Boost-Edition#:~:text=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20/%20Russian%20version.">🇷🇺 Русская версия / Russian version</a> | <a href="https://github.com/playgeymer22852/Ultimate-Optimizations-Ultra-Boost-Edition#:~:text=English%20version%20/%20%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F.">🇺🇸 English version / Английская версия</a>
 </p>
 
 ---
