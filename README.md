@@ -1,5 +1,10 @@
 
 
+
+#Русская версия / Russian version.
+
+---
+
 # 🚀 Ultimate Optimizations: Ultra Boost Edition
 
 ---
