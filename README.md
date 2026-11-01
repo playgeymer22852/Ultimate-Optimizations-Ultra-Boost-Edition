@@ -18,6 +18,9 @@
 
 # Русская версия / Russian version.
 
+> [!NOTE]
+> ### 📌 ВЫ ПЕРЕШЛИ К РУССКОЙ ВЕРСИИ СБОРКИ
+
 ---
 
 # 🚀 Ultimate Optimizations: Ultra Boost Edition
