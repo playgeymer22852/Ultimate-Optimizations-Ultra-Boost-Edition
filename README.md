@@ -415,7 +415,7 @@
 
 © Ultimate Optimizations: Ultra Boost Edition. Все права защищены.
 
-# ---
+---
 
 # English version / Английская версия.
 
